@@ -1,0 +1,35 @@
+.titlefont
+{
+	font-size:80px;
+	text-align:center;
+	color: red;
+}
+body
+{
+	background-image: url(zest3.jpg);
+	background-position:65px,65px;
+	color: violet;
+    font-weight: bold;
+    font-size: 52px;
+
+}
+.feedele
+{
+	background:transparent;
+}
+::placeholder
+{
+	color: white;
+}
+button
+{
+	font-color:white; 
+}
+::form-control
+{
+	background:transparent;
+}
+p
+{
+	color: white;
+}

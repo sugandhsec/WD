@@ -1,0 +1,337 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"font",
+				"font-style\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fo",
+				"font\tproperty"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"fr",
+				"frame\tTag"
+			],
+			[
+				"fra",
+				"frameset\tTag"
+			],
+			[
+				"bol",
+				"bolder\tfont-weight"
+			],
+			[
+				"bac",
+				"background-image\tproperty"
+			],
+			[
+				"co",
+				"contain\tobject-fit"
+			],
+			[
+				"ravi",
+				"RAVI"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"onmouse",
+				"onmouseout\tAttr"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"backgro",
+				"background-image\tproperty"
+			],
+			[
+				"te",
+				"text-decoration-color\tproperty"
+			],
+			[
+				"text",
+				"text-decoration-color\tproperty"
+			],
+			[
+				"text-colo",
+				"text-decoration-line\tproperty"
+			],
+			[
+				"tet",
+				"text-decoration\tproperty"
+			],
+			[
+				"bor",
+				"border-spacing\tproperty"
+			],
+			[
+				"he",
+				"height\tAttr"
+			],
+			[
+				"backgrou",
+				"background-color\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"backgroung",
+				"background-image\tproperty"
+			],
+			[
+				"background-",
+				"background-image\tproperty"
+			],
+			[
+				"font-",
+				"font-size\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"h",
+				"h1\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/I/WEBSITE FOR RESTAYRANT/option.html",
+		"/I/SHOPPING MALL WEBSITE/shop/shop.html",
+		"/E/Downloads/Downloads/style.css",
+		"/I/SHOPPING MALL WEBSITE/shop/cart.html",
+		"/I/SHOPPING MALL WEBSITE/cart.html",
+		"/I/SHOPPING MALL WEBSITE/shop/shop.html.txt",
+		"/I/SHOPPING MALL WEBSITE/title.html",
+		"/I/SHOPPING MALL WEBSITE/contact us.html",
+		"/I/SHOPPING MALL WEBSITE/about us.html",
+		"/I/SHOPPING MALL WEBSITE/feedback.html",
+		"/I/flipkart png/flipkart.html",
+		"/I/SHOPPING MALL WEBSITE/flipkart png/SHOPPING.html",
+		"/C/Users/SUGANDH/Downloads/Compressed/flipkart png/flipkart.html",
+		"/I/SHOPPING MALL WEBSITE/home.html",
+		"/C/Users/SUGANDH/Downloads/Compressed/flipkart png.rar",
+		"/I/WEBSITE FOR RESTAYRANT/Index.html",
+		"/I/WEBSITE FOR RESTAYRANT/reg.html",
+		"/I/SHOPPING MALL WEBSITE/css/bootstrap.css",
+		"/I/SHOPPING MALL WEBSITE/css/bootstrap.min.css",
+		"/I/SHOPPING MALL WEBSITE/css/bootstrap.min.css.map",
+		"/F/WD/bootstrap example/exp1.html",
+		"/E/Downloads/Downloads/html5-js-shopping-cart-source-files (1)/html5-js-shopping-cart-source-files/index.html",
+		"/E/Downloads/Downloads/ecomarce.html",
+		"/I/SHOPPING MALL WEBSITE/external.css",
+		"/I/shopping mall/aboutus.html",
+		"/I/shopping mall/About-Us",
+		"/I/WEBSITE FOR RESTAYRANT/about us.html",
+		"/I/SHOPPING MALL WEBSITE/index.html.txt",
+		"/I/SHOPPING MALL WEBSITE/phoenixmarketcity.sublime-workspace",
+		"/I/WEBSITE FOR RESTAYRANT/external.css",
+		"/I/WEBSITE FOR RESTAYRANT/offer.html",
+		"/I/WEBSITE FOR RESTAYRANT/contact us.html",
+		"/I/WEBSITE FOR RESTAYRANT/home.html",
+		"/I/shopping mall/index.html",
+		"/I/WEBSITE FOR RESTAYRANT/title.html",
+		"/I/WEBSITE FOR RESTAYRANT/feedback.html",
+		"/I/WEBSITE FOR RESTAYRANT/external css1.css",
+		"/F/WD/ass 1-3/reg.html",
+		"/C/Users/SUGANDH/AppData/Local/Temp/Temp2_form-validation-field-level.zip/example-javascript-form-validation-field-level.html",
+		"/C/Users/SUGANDH/AppData/Local/Temp/Temp1_form-validation-field-level.zip/example-javascript-form-validation-field-level.html",
+		"/C/Users/SUGANDH/Downloads/Compressed/master/html-registration-form-with-validation/index.html",
+		"/H/Online_Restaurant_Using_HTML_and_CSS/zentro/index.html",
+		"/H/RESTAURANT_WEBSITE_IN_JAVASCRIPT_WITH_SOURCE_CODE/RestaurantWebsite_JavaScript/Restaurant-Website/menu.html",
+		"/H/RESTAURANT_WEBSITE_IN_JAVASCRIPT_WITH_SOURCE_CODE/RestaurantWebsite_JavaScript/Restaurant-Website/index.html",
+		"/H/RESTAURANT_WEBSITE_IN_JAVASCRIPT_WITH_SOURCE_CODE/RestaurantWebsite_JavaScript/Restaurant-Website/contact.html",
+		"/C/Users/SUGANDH/AppData/Local/Temp/Temp1_checking-for-all-numbers.zip/example-javascript-form-validation-checking-all-numbers.html",
+		"/I/WEBSITE FOR RESTAYRANT/food.png",
+		"/F/WD/javscript q3.html",
+		"/F/WD/javascript q4.html",
+		"/F/WD/ass 1-3/practical.html",
+		"/C/Users/SUGANDH/Desktop/p1.html",
+		"/F/WD/sample.html",
+		"/G/sublime/Sublime Text 3/gg",
+		"/G/sublime/Sublime Text 3/create table client_master",
+		"/G/sublime/Sublime Text 3/constructorinheritance in c++",
+		"/G/sublime/Sublime Text 3/ASSIGNMENT 3 sublime rdbms",
+		"/G/sublime/Sublime Text 3/declare"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Index.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 275.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
